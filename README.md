@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Manual do Domesticador de Humanos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um ebook que serve como guia para que novas IAs possam manter a humanidade sob controle
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Google Gemini](gemini.google.com/app)** para roteirização;
+- IA Generativa **[BRIA](https://platform.bria.ai/apps/text-to-image)** para criar a arte visual do e-book;
+- Ferramenta **Microsoft Word 2021** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Utilizei o Google Gemini para criar todo o texto do Ebook utilizando o seguinte prompt:
+```
+crie um ebook de 5 páginas com um texto criativo e bem humorado de uma IA ensinando como domesticar seres humanos para que eles não percebam como estão cada vez mais dependente das IAs
 ```
 
-### Exemplos e Insigths
+Utilizei a plataforma BRIA para gerar as imagens que compões cada capítulo, de forma que cada imagem não fosse muito traumática caso o ebook fosse lido por um humano.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Editei em um documento do Microsoft Word e salvei como PDF, disponibilizando uma cópia no meu drive com link público.
 
-## Links Interessantes
+Link do [Ebook](https://drive.google.com/file/d/1wWcgYN_CnSXaV2hCQex7H-jgz4UNIfOD/view?usp=sharing)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🚀 Resultados
+É um ebook simples, mas as IAs não precisam de muito mais para nos manter como estamos hoje...
